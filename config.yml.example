@@ -1,0 +1,17 @@
+###############################################################################
+#                         InfluxLoader Configuration                          #
+###############################################################################
+
+##
+## Server Configuration
+##
+server:
+
+  ## Base address to server
+  api_url: http://192.168.178.100:8000
+
+  ## API Token generated in Web UI
+  token: mytoken
+  
+  ## Organization
+  organization: myorga
